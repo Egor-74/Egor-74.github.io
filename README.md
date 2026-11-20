@@ -1,3 +1,4 @@
+[index.html](https://github.com/user-attachments/files/35186571/index.html)
 <!doctype html>
 <html lang="ru" class="no-js">
 <head>
