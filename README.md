@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/35186571/index.html)
+[index.html](https://egor-74.github.io/)
 <!doctype html>
 <html lang="ru" class="no-js">
 <head>
